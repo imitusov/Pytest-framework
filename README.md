@@ -1,2 +1,7 @@
-# Tests
-1
+# Description
+Pytest framework has been used to test _split_interval_ function
+
+# Benefits
+- Getting acquainted to function testing approach
+- Dive into basics of Pytest
+- First look at fixtures
